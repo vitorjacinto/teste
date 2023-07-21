@@ -1,4 +1,5 @@
-winget install --id=Google.Chrome -e --accept-package-agreements --accept-source-agreements ;
+winget install --id=Google.Chrome -e --accept-package-agreements --accept-source-agreements ; ( CHROME )
 
 https://www.qbittorrent.org/download ( pra baixar os game ) bem melhor que o TORRENT
 
+winget install --id=Discord.Discord -e --accept-package-agreements --accept-source-agreements ; ( DISCORD ) 
